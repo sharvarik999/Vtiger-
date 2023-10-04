@@ -1,0 +1,17 @@
+browser     Chrome
+url          https://demo.vtiger.com/vtigercrm/index.php
+campaignName  TCS
+TargetAudiance 50
+ExceptedcloseDate  5/10/2023
+Sponsor    100
+TargetSize  50
+NumSent     20
+BudgetCost  1000
+ActualCost  300
+ExpectedRevenue  200
+ExpectedSalesCount  150
+ActualSalesCount     100
+ExceptedResponsedCount 200
+ActualResponseCount    150
+ExceptedROI   100
+Description   This website is used for the registration purpose
